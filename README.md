@@ -6,7 +6,7 @@ Read the [Beginner's Guide to Proper Git Workflow](https://medium.com/@anjulapau
 
 Make sure you have the following installed on your machine:
 
-- [Node.js](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en) — A JavaScript runtime built on Chrome's V8 engine.
 - [pnpm](https://pnpm.io) — A fast, space-efficient package manager. It won't take up much storage, don't worry.
 - [Git](https://git-scm.com) — You know what this is, right?
 - [GitHub Desktop](https://github.com/apps/desktop) — Optional, but a handy tool for managing repositories without the command line.
