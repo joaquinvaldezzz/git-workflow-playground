@@ -16,5 +16,10 @@
   },
   "prettier": {
     "printWidth": 100
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
