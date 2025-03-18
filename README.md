@@ -13,10 +13,10 @@ Make sure you have the following installed on your machine:
 
 ## Local Setup
 
-Download or clone this repository to your machine:
+[Download](https://github.com/joaquinvaldezzz/git-workflow-playground/archive/refs/heads/main.zip) or clone this repository to your machine:
 
 ```bash
-git clone
+git clone https://github.com/joaquinvaldezzz/git-workflow-playground.git
 ```
 
 Navigate to the project directory:
