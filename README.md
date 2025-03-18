@@ -30,3 +30,9 @@ Install the dependencies:
 ```bash
 pnpm install
 ```
+
+Run the local development server:
+
+```bash
+pnpm dev
+```
