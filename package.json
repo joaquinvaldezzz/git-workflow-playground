@@ -8,8 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "format": "prettier --write .",
-    "prepare": "husky",
-    "test": "echo \"\""
+    "prepare": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
