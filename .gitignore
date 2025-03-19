@@ -120,9 +120,10 @@ web_modules/
 .cache
 .parcel-cache
 
-# Next.js build output
+# Next.js
 .next
 out
+next-env.d.ts
 
 # Nuxt.js build / generate output
 .nuxt
