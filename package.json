@@ -14,8 +14,10 @@
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
     "@commitlint/types": "^19.8.0",
+    "@tailwindcss/vite": "^4.0.14",
     "husky": "^9.1.7",
     "prettier": "^3.5.3",
+    "tailwindcss": "^4.0.14",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
   },
