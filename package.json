@@ -19,6 +19,9 @@
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
   },
+  "lint-staged": {
+    "*.{html,js,jsx,ts,tsx,css,md}": "prettier --write"
+  },
   "prettier": {
     "printWidth": 100
   },
