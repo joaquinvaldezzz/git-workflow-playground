@@ -2,6 +2,7 @@
   "name": "git-workflow-playground",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
