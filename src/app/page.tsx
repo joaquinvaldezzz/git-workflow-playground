@@ -1,24 +1,13 @@
-import type { Metadata } from "next";
-
-function add(a: number, b: number): number {
-  return a + b;
-}
-
-export const metadata: Metadata = {
-  title: "Landing page",
-};
-
 export default function Page() {
   return (
-    <div>
-      <h1>Hello, Next.js!</h1>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam corrupti sed, modi
-        molestias quas architecto pariatur nisi placeat nesciunt dolores suscipit dicta illum
-        quidem, quasi odio commodi mollitia libero sit.
-      </p>
-
-      <p>{add(1, 2)}</p>
+    <div className="container mx-auto px-4 pt-4">
+      <ul className="list-inside list-disc">
+        <li>John Joaquin A. Valdez</li>
+        <li>Christal Sofia D. Malbago</li>
+        <li>Charlestone Maru</li>
+        <li>Ken Lorence M. Gara</li>
+        <li>Claire Samson</li>
+      </ul>
     </div>
   );
 }
