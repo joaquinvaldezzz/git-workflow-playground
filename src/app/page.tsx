@@ -11,7 +11,7 @@ export default function Page() {
         <li>Claire Samson</li>
       </ul>
       <p className="mt-4 text-2xl font-bold">Hello, World!</p>
-      <p>- Tal</p>
+      <p>- CS</p>
 
       <p>Hell yeah! - Joaquin</p>
 
