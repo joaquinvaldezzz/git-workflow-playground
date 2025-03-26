@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export default function Page() {
   return (
     <div className="container mx-auto px-4 pt-4">
@@ -9,9 +11,11 @@ export default function Page() {
         <li>Claire Samson</li>
       </ul>
       <p className="mt-4 text-2xl font-bold">Hello, World!</p>
-      <p>- Tal</p>
+      <p>- CS</p>
 
       <p>Hell yeah! - Joaquin</p>
+
+      <Button variant="outline">Button</Button>
     </div>
   );
 }
