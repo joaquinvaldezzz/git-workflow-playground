@@ -8,6 +8,8 @@ export default function Page() {
         <li>Ken Lorence M. Gara</li>
         <li>Claire Samson</li>
       </ul>
+      <p className="mt-4 text-2xl font-bold">Hello, World!</p>
+      <p>- Tal</p>
     </div>
   );
 }
