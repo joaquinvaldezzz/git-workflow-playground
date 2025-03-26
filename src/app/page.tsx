@@ -1,6 +1,12 @@
+import type { Metadata } from "next";
+
 function add(a: number, b: number): number {
   return a + b;
 }
+
+export const metadata: Metadata = {
+  title: "Landing page",
+};
 
 export default function Page() {
   return (
@@ -11,6 +17,8 @@ export default function Page() {
         molestias quas architecto pariatur nisi placeat nesciunt dolores suscipit dicta illum
         quidem, quasi odio commodi mollitia libero sit.
       </p>
+
+      <p>{add(1, 2)}</p>
     </div>
   );
 }
