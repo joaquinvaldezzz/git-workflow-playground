@@ -5,6 +5,7 @@ export default function Page() {
         <li>John Joaquin A. Valdez</li>
         <li>Christal Sofia D. Malbago</li>
         <li>Charlestone Maru</li>
+        <li>Ken Lorence M. Gara</li>
       </ul>
     </div>
   );
