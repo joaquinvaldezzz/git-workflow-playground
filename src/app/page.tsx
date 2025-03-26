@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export default function Page() {
   return (
     <div className="container mx-auto px-4 pt-4">
@@ -12,6 +14,8 @@ export default function Page() {
       <p>- Tal</p>
 
       <p>Hell yeah! - Joaquin</p>
+
+      <Button variant="outline">Button</Button>
     </div>
   );
 }
