@@ -4,6 +4,7 @@ export default function Page() {
       <ul className="list-inside list-disc">
         <li>John Joaquin A. Valdez</li>
         <li>Christal Sofia D. Malbago</li>
+        <li>Charlestone Maru</li>
       </ul>
     </div>
   );
