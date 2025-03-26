@@ -6,6 +6,7 @@ export default function Page() {
         <li>Christal Sofia D. Malbago</li>
         <li>Charlestone Maru</li>
         <li>Ken Lorence M. Gara</li>
+        <li>Claire Samson</li>
       </ul>
     </div>
   );
