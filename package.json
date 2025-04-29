@@ -47,7 +47,7 @@
     "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^4.1.4",
     "typescript": "^5",
-    "typescript-eslint": "^8.29.0"
+    "typescript-eslint": "^8.31.1"
   },
   "lint-staged": {
     "*.{html,js,jsx,ts,tsx,css,md}": "prettier --write"
